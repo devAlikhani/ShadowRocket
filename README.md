@@ -4,22 +4,22 @@ The following configuration is for Iranian users.
 
 </br>
 <p align='center'>
-<img src="https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/img/screenshot.jpg">
+<img src="https://raw.githubusercontent.com/devAlikhani/ShadowRocket/main/img/screenshot.jpg">
 </p>
 </br>
 
 ## How to use configuration the ShadowRocket?
 
-Config Direct Link : `https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/shadowIR.conf`
+Config Direct Link : `https://raw.githubusercontent.com/devAlikhani/ShadowRocket/main/shadowIR.conf`
 
-- ✅ [Video how to add/update remote config](https://raw.githubusercontent.com/Ja7ad/ShadowRocket/main/video/config.mp4)
+- ✅ [Video how to add/update remote config](https://raw.githubusercontent.com/devAlikhani/ShadowRocket/main/video/config.mp4)
 
 
 
 ### **changelog version 0.3.0**
 
-- reject/iran.list updated [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
-- updated telegram ip [#3](https://github.com/Ja7ad/ShadowRocket/issues/3)
+- reject/iran.list updated [#3](https://github.com/devAlikhani/ShadowRocket/issues/3)
+- updated telegram ip [#3](https://github.com/devAlikhani/ShadowRocket/issues/3)
 - updated url rewrites
 - add update-url for configuration
 - disable ip
